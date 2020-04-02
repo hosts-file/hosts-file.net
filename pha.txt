@@ -1,5 +1,3 @@
-# hpHosts - PHA only
-#
 # The following are hosts in the hpHosts database with the PHA classification ONLY.
 #
 127.0.0.1 localhost #IPv4 localhost
