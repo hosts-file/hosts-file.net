@@ -1,5 +1,7 @@
 # Old data from hosts-file.net before Malwarebytes to redirect it
-
+<p></p>
+<p><b>allinone.txt</b> blocks everything, combined on 11 Apr 2020</p>
+<p></p>
 <p><b>ad_servers.txt</b> blocks ad/tracking sites/servers and nothing else, archived on 04 Mar 2020</p>
 <p><b>emd.txt</b> blocks malware sites and nothing else, archived on 30 Aug 2019</p>
 <p><b>exp.txt</b> blocks exploit sites and nothing else, archived on 09 Oct 2019</p>
